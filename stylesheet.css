@@ -1,6 +1,5 @@
 body {
   font-family: serif;
-   background-size: cover;
 }
 
 li {
@@ -53,6 +52,7 @@ li {
 }
 
 .contents-item {
+  font-size: 20px;
   float: left;
   margin-right: 40px;
 }
