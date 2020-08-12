@@ -1,6 +1,6 @@
 body {
   font-family: serif;
-  background-image: url(https://www.freepik.com/premium-photo/abstract-communication-technology-network-concept_3868706.htm#page=1&query=web%20background&position=15);
+  background-image: url(https://www.freepik.com/premium-photo/judge-s-gavel-wooden-background-top-view_5013311.htm);
   background-size: cover;
 }
 
@@ -44,6 +44,11 @@ li {
 .contents {
   height: 500px;
   margin-top: 100px;
+}
+
+img {
+  height: 50px;
+  width: 70px;
 }
 
 .section-title {
