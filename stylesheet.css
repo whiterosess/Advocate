@@ -27,7 +27,15 @@ li {
   padding: 100px 80px;
 }
 
-.copy-container h1 {
+.copy-container {
+  padding: 180px 0 100px 0;
+  background-image: url("judge.jpg");
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+/*.copy-container h1 {
   font-size: 140px;
 }
 
@@ -37,7 +45,7 @@ li {
 
 .copy-container span {
   color: #ff4a4a;
-}
+}*/
 
 .contents {
   height: 500px;
